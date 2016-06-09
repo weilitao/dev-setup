@@ -143,7 +143,6 @@ brew cask install --appdir="/Applications" macdown
 # Misc casks
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" firefox
-brew cask install --appdir="/Applications" dropbox
 brew cask install --appdir="/Applications" evernote
 
 # Link cask apps to Alfred
