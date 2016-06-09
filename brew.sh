@@ -62,6 +62,7 @@ brew install python3
 brew install vim --override-system-vi
 
 # Install other useful binaries.
+brew install xz
 brew install ack
 brew install dark-mode
 brew install git
