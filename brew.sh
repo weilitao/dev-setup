@@ -125,7 +125,8 @@ brew link libxml2 --force
 brew link libxslt --force
 
 # Install Cask
-brew install caskroom/cask/brew-cask
+# brew install caskroom/cask/brew-cask
+brew tap caskroom/cask
 
 # Core casks
 brew cask install --appdir="/Applications" alfred
